@@ -10,9 +10,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class FreemarkerTestApplication implements CommandLineRunner {
 
+    //
     @Override
     public void run(String... strings) throws Exception {
-
+        //
+        //
     }
 
     public static void main(String[] args) {
