@@ -5,7 +5,7 @@ import org.springframework.boot.context.web.SpringBootServletInitializer;
 
 
 /**
- * created by jetbrains
+ * created by ãjetbrains
  */
 public class ServletInitializer extends SpringBootServletInitializer {
 
