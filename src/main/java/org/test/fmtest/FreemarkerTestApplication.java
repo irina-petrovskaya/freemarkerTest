@@ -3,7 +3,7 @@ package org.test.fmtest;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
- * created by jetbrains
+ * created by Irina
  */
 @SpringBootApplication
 public class FreemarkerTestApplication {
