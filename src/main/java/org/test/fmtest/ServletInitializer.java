@@ -5,13 +5,17 @@ import org.springframework.boot.context.web.SpringBootServletInitializer;
 
 
 /**
- * created by jetbrains
+ * created by Irina
+ * ãjetbrains
+ *
+ *
+ *
  */
 public class ServletInitializer extends SpringBootServletInitializer {
 
-	@Override
-	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
-		return application.sources(FreemarkerTestApplication.class);
-	}
+    @Override
+    protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
+        return application.sources(FreemarkerTestApplication.class);
+    }
 
 }
